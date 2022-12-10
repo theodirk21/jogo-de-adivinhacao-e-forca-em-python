@@ -1,3 +1,3 @@
-# jogo-de-adivinhacao-e-forca-em-python
-# jogo-de-adivinhacao-e-forca-em-python
-# jogo-de-adivinhacao-e-forca-em-python
+# Jogo de adivinhação e forca em python
+
+### Jogo feio com os conhecimentos obtidos  a partir do curso de Python na plataforma alura.
